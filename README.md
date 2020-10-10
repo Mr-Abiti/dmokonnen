@@ -1,6 +1,6 @@
 ### Hi there, I am Demisew Mokonnen 👋
 
-## I'm a Software Engineer and Full Stack Developer
+## I'm a Software Engineer
 
 <!--
 **dmokonnen/dmokonnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
